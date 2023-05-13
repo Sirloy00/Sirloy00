@@ -6,8 +6,8 @@
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Sirloy00}1212%2Fhit-counter)
 
 - 🎓 A Computer Science graduate - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
-- 🔭 Self taught Software Engineer
-- :robot:  I’m a co-founder of startup company 🚀 [EEnovatics Inc.](http://eenovatics.com/), [Facebook](https://www.facebook.com/EEnovatics)
+- :robot: Self taught Software Engineer
+- :construction_worker:   Published 🚀 [Sinag-tel.co](https://sinag-tel.co/), [Facebook](https://www.facebook.com/EEnovatics)
 - 💻 Creative Developer at [Wideout](https://www.wideout.com/)
 
 <h2><samp>📈 GITHUB STATISTICS</samp></h2>
