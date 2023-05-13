@@ -5,8 +5,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Sirloy00.visitor-badge)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Sirloy00}1212%2Fhit-counter)
 
-- 🎓 A Computer Science graduate - [LinkedIn](https://www.linkedin.com/in/andrea-pauline/)
-- :robot: Self taught Software Engineer
+- 🎓 A Computer Science graduate
+- :see_no_evil:  Self taught Software Engineer 
+- :robot: Self taught Automation Software QA using Robot Framework & Selenium 
 - :construction_worker:   Published 🚀 [Sinag-tel.co](https://sinag-tel.co/), [Facebook](https://www.facebook.com/profile.php?id=100064103407706)
 - 💻 Creative QA at [Wideout](https://www.wideout.com/)
 
